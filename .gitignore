@@ -13,3 +13,13 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+vendor/
+
+# idea
+.idea
+.DS_Store
+.vscode
+
+go.sum
+
+logs/*
